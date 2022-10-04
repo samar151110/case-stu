@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+}
+
+p{
+    color: rgb(20, 57, 220);
+    letter-spacing: 2px;
+}
+
+.mobilenet{
+  letter-spacing: 2px;
+}
+
+.google_lens{
+    letter-spacing: 2px;
+    color: chartreuse;
+}
+
+img{
+    height: 30px; 
+}
+
+div{
+    color: greenyellow;
+    font-size: medium;
+    font-weight: bolder;
+    background-color: cornsilk;
+}
